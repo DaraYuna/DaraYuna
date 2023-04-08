@@ -12,4 +12,4 @@
 
 <img src="https://img.shields.io/badge/C-F9FF00?style=for-the-badge&logo=c&logoColor=white">
 
-![Snake animation](https://github.com/DaraYuna);
+
