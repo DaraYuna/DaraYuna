@@ -8,5 +8,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaraYuna&layout=compact&theme=dark)](https://github.com/DaraYuna/github-readme-stats)
-&ensp; &ensp;<img src="https://files.catbox.moe/aobk3d.gif" width="90" height="90">
+&ensp; &ensp;<img src="https://files.catbox.moe/aobk3d.gif" width="120" height="90">
 
